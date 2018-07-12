@@ -7,7 +7,9 @@ Rotary encoder example for IoT Octopus, the badge for IoT Evaluation by fab-lab.
 This example requires an external Arduino library:
 
 Encoder Library (Version 1.4.1) by PaulStoffregen
+
 https://www.pjrc.com/teensy/td_libs_Encoder.html
+
 https://github.com/PaulStoffregen/Encoder
 
 ![Add Encoder library](media/arduino_rotary_encoder_paul_stoffregen.png "Add Encoder Library in Arduino IDE")
