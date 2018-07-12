@@ -1,5 +1,5 @@
 /*
- * rfcc1101 - SPI Protocol Driver for TI CC1101 RF communication module.
+ * octopus-rotary-encoder.ino - Example how to interface rotary encoder on fablab's Octopus IoT board
  *
  * Copyright (C) 2013 Wolfgang Klenk <wolfgang.klenk@gmail.com>
  *
@@ -16,9 +16,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-// Encoder Library Version 1.4.1
-// https://www.pjrc.com/teensy/td_libs_Encoder.html
-// https://github.com/PaulStoffregen/Encoder
+
 
 #include <Encoder.h> 
 
