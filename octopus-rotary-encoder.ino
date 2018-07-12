@@ -1,7 +1,7 @@
 /*
  * octopus-rotary-encoder.ino - Example how to interface rotary encoder on fablab's Octopus IoT board
  *
- * Copyright (C) 2013 Wolfgang Klenk <wolfgang.klenk@gmail.com>
+ * Copyright (C) 2018 Wolfgang Klenk <wolfgang.klenk@gmail.com>
  *
  * This program is free software: you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
